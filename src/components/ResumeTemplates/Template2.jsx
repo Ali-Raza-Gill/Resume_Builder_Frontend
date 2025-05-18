@@ -121,7 +121,7 @@ export default function Template2() {
                 <p > <i className="fa-solid fa-envelope" /></p>
                 <p className="sub-heading">{profile.email}</p>
               </div>
-              {/* {profile.github && (
+              {profile.github && (
                 <div className="link-coding">
                   <Link to={profile.github} target="_blank" rel="noopener noreferrer" className="linked">
                     <img src={github} alt="github" width={'20px'} height={'20px'} />
@@ -180,7 +180,7 @@ export default function Template2() {
                     )}
                   </Link>
                 </div>
-              )} */}
+              )}
 
               {/* <p className="sub-heading">{profile.linkden}</p> */}
             </div>

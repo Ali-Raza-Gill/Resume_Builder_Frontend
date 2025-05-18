@@ -289,7 +289,7 @@ export default function Template1() {
 
                 {/* Links */}
 
-                {/* <div className="links">
+                <div className="links">
                   <div className="heading">Coding Profile</div>
                   <hr />
                   <div className="linkSets">
@@ -370,7 +370,7 @@ export default function Template1() {
                       )}
                     </div>
                   </div>
-                </div> */}
+                </div>
 
                 {/* Core Subjects */}
 

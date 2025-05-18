@@ -132,7 +132,7 @@ export default function LandingPage() {
                                     transition={{ duration: 1, delay: 0.5 }}
                                 >
                                     <Typography variant="h5" component="h1" gutterBottom>
-                                        Create a resume that stands out with our easy-to-use builder
+                                        Build your resume quickly with our smart, user-friendly CareerLaunch CV. Designed for simplicity, speed, and professional results every time. Your career journey begins here — create, customize, and succeed.
                                     </Typography>
                                 </motion.div>
                                 <motion.div
